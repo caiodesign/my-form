@@ -34,5 +34,19 @@ $para = "seu@email.com" // Altere Aqui;
 $de = "seu@email.com" // Altere Aqui;
 ```
 
-### Desenvolvido com amor por Caio.
+### Ferramentas utilizadas
+
+- Bootstrap 3.3.7;
+- Font Awesome;
+
+### Linguagens utilizadas;
+
+- HTML5;
+- CSS3;
+- PHP & MYSQL;
+- JavaScript;
+
+### Observações
+
+- Mobile First. Para melhor visualização do projeto, aperte ```F12``` para abrir o console do Google Chrome e depois pressione ```CTRL + SHIFT + M``` para abrir a função de devices do navegador e atualize a página ```F5```.
 
