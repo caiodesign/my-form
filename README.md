@@ -48,9 +48,9 @@ function logotipo(){
 ### Arquivos JS & CSS
 
 * [style.css](https://github.com/caiodesign/my-form/blob/master/public/css/style.css) - versão completa.
-* [style.css](https://github.com/caiodesign/my-form/blob/master/public/css/style.min.css) - versão minificada.
+* [style.min.css](https://github.com/caiodesign/my-form/blob/master/public/css/style.min.css) - versão minificada.
 * [functions.js](https://github.com/caiodesign/my-form/blob/master/public/js/functions.js) - versão completa.
-* [functions.js](https://github.com/caiodesign/my-form/blob/master/public/js/functions.min.js) - versão minificada.
+* [functions.min.js](https://github.com/caiodesign/my-form/blob/master/public/js/functions.min.js) - versão minificada.
 
 ### Ferramentas utilizadas
 
