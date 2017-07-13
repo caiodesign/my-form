@@ -34,6 +34,19 @@ $para = "seu@email.com" // Altere Aqui;
 $de = "seu@email.com" // Altere Aqui;
 ```
 
+### Alteração do Logotipo
+
+Para alterar o logotipo das páginas, acesse o arquivo ```functions.php```, localizado dentro da página ```includes``` e altere a ```string``` da variável ```$logoUrl``` dentro da função ```logotipo()```.
+
+```
+function logotipo(){
+  $logoUrl = "http://www.foster.com.br/images/logo-foster-home.png"; // Altere Aqui
+  echo $logoUrl;
+}
+```
+
+
+
 ### Ferramentas utilizadas
 
 - Bootstrap 3.3.7;
