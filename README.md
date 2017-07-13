@@ -1,7 +1,4 @@
 ## Formulário desenvolvido por Caio em resposta de Foster Company
-
-## Instalação
-
 ### Conexão com o banco de dados
 
 Baixe e instale o respositorio em seu servidor.
