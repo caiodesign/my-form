@@ -12,9 +12,9 @@ $query   = "INSERT into formularios (nome,cpf,ddd,celular,email) VALUES('" . $no
 $success = $conn->query($query);
 
 
-$email_servidor = "email@servidor.com";
-$para = "seu@email.com";
-$de = "seu@email.com";
+$email_servidor = "email@servidor.com" // Altere Aqui;
+$para = "seu@email.com" // Altere Aqui;
+$de = "seu@email.com" // Altere Aqui;
 $assunto = "Formulário enviado do site (seu site)";
 $mensagem = '<p>Formulário do site</p>
 <p>Nome: ' .$nome. '</p>
