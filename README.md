@@ -3,7 +3,7 @@
 ### Instalação
 
 Baixe e instale o respositorio em seu servidor.
-Crie um banco de dados MYSQL e insira com os seguintes dados:
+Crie um banco de dados MYSQL e insira os seguintes dados:
 
 ```
 CREATE TABLE `formularios` (
