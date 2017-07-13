@@ -1,6 +1,6 @@
-# Formulário desenvolvido por Caio em resposta de Foster Company
+## Formulário desenvolvido por Caio em resposta de Foster Company
 
-### Installing
+### Instalação
 
 Baixe e instale o respositorio em seu servidor.
 Crie um banco de dados MYSQL e insira com os seguintes dados:
