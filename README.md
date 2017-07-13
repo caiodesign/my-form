@@ -1,6 +1,8 @@
 ## Formulário desenvolvido por Caio em resposta de Foster Company
 
-### Instalação
+## Instalação
+
+### Conexão com o banco de dados
 
 Baixe e instale o respositorio em seu servidor.
 Crie um banco de dados MYSQL e insira os seguintes dados:
@@ -17,3 +19,23 @@ CREATE TABLE `formularios` (
 ```
 
 Acesse o arquivo ```connect.php``` dentro da pasta ```includes```, e altere os dados de acesso ao banco de dados.
+
+```
+ $dbhost = "localhost"; //endereço do servidor
+ $dbuser = "root"; //usuário
+ $dbpass = ""; //senha
+ $dbname = "form"; //nome do banco
+ ```
+
+### Configuração de disparo de e-mails
+
+Acesse o arquivo ```enviaFormulario.php``` dentro da pasta ```includes```, e altere os endereços de e-mails para os de seu servidor.
+
+```
+$email_servidor = "email@servidor.com" // Altere Aqui;
+$para = "seu@email.com" // Altere Aqui;
+$de = "seu@email.com" // Altere Aqui;
+```
+
+### Desenvolvido com amor por Caio.
+
