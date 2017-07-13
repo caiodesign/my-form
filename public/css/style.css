@@ -1,0 +1,116 @@
+/*
+FASE 01 - TESTE
+DESENVOLVIDO POR CAIO OLIVEIRA
+CAIODESIGN.COM
+11/07/2017
+ */
+/* GLOBAL */
+body{
+	font-family: 'Roboto Condensed', sans-serif;
+}
+h4{
+	font-size: 1.2em;
+}
+h3{
+	font-weight: bold;
+}
+label{
+	font-weight: 400;
+}
+button{
+	background-color: #007FE0;
+	border: 0;
+	padding: 13px 40px;
+	font-weight: 700;
+	color: #fff;
+}
+
+/* GENERAL */
+/*----------- FORM -----------*/
+.text-danger{
+	color: red;
+}
+
+.center-this{
+	text-align: center;
+}
+
+.foster-logo{
+	padding: 20px;
+}
+.foster-logo img{
+	width: 170px;
+}
+.input-box{
+	margin: 15px 0;
+}
+.input-box input{
+	display: block;
+	width: 100%;
+	padding: 10px 07px;
+}
+
+.tel-box input{
+	width: 79%;
+	display: inline;
+	float: right;
+	margin-bottom: 15px;
+}
+.tel-box input:first-child{
+	width: 18%;
+	float: left;
+}
+#add-tel{
+	padding-top: 10px;
+	clear: both;
+}
+.another-tel-box input{
+	padding: 10px 0px;
+}
+.mensagem-erro{
+	background-color: #F2DEDF;
+	color: red;
+	padding: 05px;
+}
+.mensagem-erro p{
+	letter-spacing: 0.2px;
+	line-height: 20px;
+	padding-top: 10px;
+}
+.icon-error{
+	float: left;
+	padding: 15px;
+	color: red;
+}
+
+.mensagem{
+	padding-bottom: 30px;
+}
+
+.input-btn a{
+	text-decoration: none;
+	color: #fff;
+}
+
+/*----------- Media Querys -----------*/
+@media (min-width: 1024px){
+	body h4{
+		font-size: 1.8em;
+	}
+	label{
+		font-size: 1.4em;
+	}
+	#form-error .icon-error{
+		padding-top: 7px;
+		padding-bottom: 0px;
+	}
+	.tel-box input:first-child{
+		width: 10%;
+	}
+	.tel-box input{
+		width: 89%;
+	}
+	.home-form .input-btn{
+		text-align: right;
+	}
+}
