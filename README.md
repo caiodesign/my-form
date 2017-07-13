@@ -50,7 +50,8 @@ $de = "seu@email.com" // Altere Aqui;
 
 Mobile First. Para melhor visualização do projeto, aperte ```F12``` para abrir o console do Google Chrome e depois pressione ```CTRL + SHIFT + M``` para abrir a função de devices do navegador. Não esqueça de atualizar a página ```F5```.
 
-Os layouts utilizados neste projeto, foram disponibilizados por Foster WPP Group. Você pode os encontra-lo [aqui](https://github.com/ogilvy-subscriptionsbrazil/web-developer-1/tree/master/_layout)
+Os layouts utilizados neste projeto, foram disponibilizados por Foster WPP Group. 
+* [Layouts](https://github.com/ogilvy-subscriptionsbrazil/web-developer-1/tree/master/_layout) - Clique aqui para ser redirecionado.
 
 
 Desenvolvido com amor por Caio.
